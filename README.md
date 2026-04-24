@@ -1,6 +1,6 @@
-![mvsko](https://user-images.githubusercontent.com/78037846/152479672-7c967bfb-b80a-40e1-a962-a5a5a0393e9d.png)
+![mvskep](https://user-images.githubusercontent.com/78037846/152479672-7c967bfb-b80a-40e1-a962-a5a5a0393e9d.png)
 
-# Hi there, I'm Mvsko
+# Hi there, I'm mvskep
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> 
 
@@ -41,10 +41,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mvsko&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mvskep&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mvsko&theme=prussian&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvskep&theme=prussian&line_height=40&hide=css"/>
     </a>
 </div>
 
@@ -52,5 +52,5 @@
 
 ---
 <p align="center">
-  <img src ="https://profile-counter.glitch.me/mvsko/count.svg"/>
+  <img src ="https://profile-counter.glitch.me/mvskep/count.svg"/>
 </p>
